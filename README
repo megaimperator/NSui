@@ -1,0 +1,6 @@
+# NSui - .Net library for interacting with SUI blockchain, written in C#.
+
+Goals when designing library:
+* Supports all of JSON-RPC calls
+* Resembles official Typescript SDK, adapted to the spirit of C#
+* Can run on a server or in a browser (browser has less framework support)
